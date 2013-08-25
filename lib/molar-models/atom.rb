@@ -1,5 +1,3 @@
-module MolarModels
-  class Atom
+class MolarModels::Atom
 
-  end
 end
