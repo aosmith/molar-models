@@ -1,3 +1,3 @@
-class MolarModels::Atom
+class Atom
 
 end
