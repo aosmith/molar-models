@@ -6,7 +6,7 @@ describe MolarModels::Atom do
   end
 
   describe "Basic attributes" do
-    it { @atom.should respond_to :electrons }
+    it { @atom.should respond_to :orbitals }
     it { @atom.should respond_to :protons   }
     it { @atom.should respond_to :neutrons  }
 

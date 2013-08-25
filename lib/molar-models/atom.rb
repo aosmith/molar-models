@@ -1,6 +1,8 @@
 module MolarModels
   class Atom
-    def electrons
+    def orbitals
+      # This method should reply with objects corresponding to any
+      # occupied orbital
       raise "Must implement in singleton subclass"
     end
     def protons
