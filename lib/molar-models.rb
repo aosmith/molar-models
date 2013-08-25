@@ -1,5 +1,6 @@
 require "molar-models/version"
 
+require "molar-models/atom"
+
 module MolarModels
-    # Your code goes here...
 end
